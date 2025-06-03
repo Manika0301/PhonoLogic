@@ -1,2 +1,3 @@
-# PhonoLogic
-flutter app
+# phonologic
+
+A new Flutter project.
